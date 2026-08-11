@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HassiyYT! My name's Alexander. I was born in the city of Bratsk, Irkutsk region, Russia. Now I'm in Krasnodar Territory, Russia.
-- 👀 I’m interested in Software Engineering, DevOps and Computer Vision
-- 🌱 I’m currently learning Rust, Golang and Kubernetes
+- 👀 I’m interested in Machine Learning, Computer Vision, Software Engineering and DevOps
+- 🌱 I’m currently learning Rust, Golang, Kubernetes and RISC-V
 - 💞️ I’m looking to collaborate on Russian Companies
 - 📫 You can reach me by writing to me on hassiy@disroot.org
 
